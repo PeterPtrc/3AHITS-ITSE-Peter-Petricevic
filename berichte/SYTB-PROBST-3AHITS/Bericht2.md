@@ -3,7 +3,7 @@
 - Peter Petricevic
 - 3AHITS
 - SYTB
-- 11.10.26
+- 02.11.26
 - SYTB
 
 # Übung (Directory Struktur) 
