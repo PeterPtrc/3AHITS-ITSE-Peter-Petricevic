@@ -126,6 +126,7 @@ touch make_gen.sh
 
 ```sh
 #!/bin/bash
+
 touch "$1.sh" 
 chmod +x "$1.sh" 
 echo "#!/bin/sh" >> "$1.sh" 
@@ -179,8 +180,8 @@ touch headline_cat.sh
 - in der Datei
 ```sh
 #!/bin/bash
-> strich.txt
 
+> strich.txt
 for file in "$@"
 do
 echo "== $file ==========================================" >> strich.txt
