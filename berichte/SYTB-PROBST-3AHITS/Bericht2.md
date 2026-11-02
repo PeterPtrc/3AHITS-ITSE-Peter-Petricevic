@@ -178,7 +178,9 @@ touch headline_cat.sh
 ```
 
 - in der Datei
+  
 ```sh
+
 #!/bin/bash
 
 > strich.txt
